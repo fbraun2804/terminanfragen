@@ -1,0 +1,14 @@
+{
+  "vorname": "Friedrich",
+  "nachname": "Braun",
+  "email": "f.braun@pflugsmuehle.de",
+  "telefon": "00491703583324",
+  "anlass": "Firmenfeier",
+  "wuenschtermin": "2025-10-18",
+  "ausweich1": "2025-11-08",
+  "ausweich2": "2025-11-02",
+  "gaestezahl": 30,
+  "freieTrauung": false,
+  "wuensche": "dddd",
+  "angefragt_am": "2025-10-22 13:47:20"
+}
