@@ -1,0 +1,14 @@
+{
+  "vorname": "Benedikt",
+  "nachname": "Braun",
+  "email": "b.braun@pflugsmuehle.de",
+  "telefon": "01702720179",
+  "anlass": "Hochzeit",
+  "wuenschtermin": "2026-04-25",
+  "ausweich1": "2026-05-09",
+  "ausweich2": "2026-05-30",
+  "gaestezahl": 90,
+  "freieTrauung": false,
+  "wuensche": "",
+  "angefragt_am": "2025-10-23 19:07:03"
+}
