@@ -1,0 +1,19 @@
+{
+  "anrede": "Herr",
+  "vorname": "Benedikt",
+  "nachname": "Braun",
+  "strasse": "Pflugsmühle 1c",
+  "plz": "91183",
+  "ort": "Abenberg",
+  "telefon": "01702720179",
+  "mail": "b.braun@pflugsmuehle.de",
+  "wunschtermin": "2026-02-21",
+  "alternativ1": "2026-03-28",
+  "alternativ2": "2026-04-25",
+  "zeitraumVon": "2026-01-31",
+  "zeitraumBis": "2026-09-26",
+  "anlass": "Hochzeit",
+  "gaestezahl": "100",
+  "wuensche": "",
+  "company": ""
+}
