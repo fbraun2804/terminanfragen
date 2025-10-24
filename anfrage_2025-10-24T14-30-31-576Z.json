@@ -1,0 +1,19 @@
+{
+  "anrede": "Herr",
+  "vorname": "Friedrich",
+  "nachname": "Braun",
+  "strasse": "Pflugsmühle 1c",
+  "plz": "91183",
+  "ort": "Abenberg",
+  "telefon": "+491703583324",
+  "mail": "f.braun@pflugsmuehle.de",
+  "wunschtermin": "2025-10-26",
+  "alternativ1": "",
+  "alternativ2": "",
+  "zeitraumVon": "",
+  "zeitraumBis": "",
+  "anlass": "Hochzeit",
+  "gaestezahl": "2",
+  "wuensche": "dddd",
+  "company": ""
+}
